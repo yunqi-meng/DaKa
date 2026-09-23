@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">地图足迹打卡</string>
+    <string name="tab_map">地图</string>
+    <string name="tab_achievement">成就</string>
+    <string name="tab_profile">我的</string>
+
+    <!-- 打卡 -->
+    <string name="checkin_here">当前位置打卡</string>
+    <string name="checkin_title">标题</string>
+    <string name="checkin_content">记录这一刻…</string>
+    <string name="unlock_mode_free">无限制模式</string>
+    <string name="unlock_mode_limit">500米限制模式</string>
+    <string name="unlock_mode_free_desc">任何地点均可查看全部内容</string>
+    <string name="unlock_mode_limit_desc">进入500米范围自动解锁，支持故地重游</string>
+    <string name="force_unlock_title">解除位置限制</string>
+    <string name="force_unlock_warning">解除后该打卡点将永久取消500米查看限制\n⚠️ 惩罚：【%1$s】故地重游资格将永久冻结，无法再贡献全局进度</string>
+    <string name="force_unlock_confirm">我已知晓后果，确认解除</string>
+    <string name="go_here">前往这里</string>
+
+    <!-- 成就 -->
+    <string name="achievement_first_checkin">初见足迹</string>
+    <string name="achievement_hundred">百步达人</string>
+    <string name="achievement_north_china">踏遍华北</string>
+    <string name="achievement_all_china">环游中国</string>
+    <string name="achievement_revisit_one">故地重游・一城</string>
+    <string name="achievement_revisit_full">故地重游・十城</string>
+    <string name="achievement_tier1">一线城市打卡</string>
+    <string name="achievement_photo">摄影达人</string>
+    <string name="achievement_border">边疆探索者</string>
+</resources>

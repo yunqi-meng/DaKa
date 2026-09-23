@@ -1,0 +1,31 @@
+# ===== Android / Gradle =====
+*.iml
+.gradle/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.hprof
+
+# ===== Java / Maven =====
+target/
+
+# ===== 签名密钥 =====
+*.jks
+*.keystore
+keystore.properties
+
+# ===== 运行时产物 =====
+*.log
+uploads/
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="accent">#FF9800</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_background">#212121</color>
+    <color name="locked">#9E9E9E</color>
+    <color name="unlocked">#4CAF50</color>
+    <color name="warning">#F44336</color>
+    <color name="province_fill">#334CAF50</color>
+    <color name="province_fill_deep">#664CAF50</color>
+</resources>
