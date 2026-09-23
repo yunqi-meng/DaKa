@@ -16,6 +16,9 @@ local.properties
 # ===== Java / Maven =====
 target/
 
+# ===== 百度 LBS SDK 分发包（86MB，非构建必需，jar/aar/so 已单独提交）=====
+android/app/libs/BaiduLBS_Android_6257/libs.zip
+
 # ===== 签名密钥 =====
 *.jks
 *.keystore

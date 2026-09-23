@@ -166,3 +166,4 @@ java -jar target/daka-server-1.0.0.jar      # 或直接执行 start-server.bat
 
 - 百度地图 AK、数据库口令、JWT 默认密钥均为开发期配置，上线前必须替换
 - 客户端与服务端的数据以"客户端本地为准 + 增量上报"的方式同步
+- 百度 SDK 的 `android/app/libs/BaiduLBS_Android_6257/libs.zip`（86MB 分发包，构建不需要）未纳入版本库，其余 jar / aar / so 已完整提交
